@@ -16,6 +16,13 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></img></a>
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></img></a>
 <a href="https://css-tricks.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></img></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="ExpressJS"></img></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></img></a>
+<a href="" target="_blank" rel="noreferrer"><img src="" alt=""></img></a>
+<a href="" target="_blank" rel="noreferrer"><img src="" alt=""></img></a>
+<a href="" target="_blank" rel="noreferrer"><img src="" alt=""></img></a>
+<a href="" target="_blank" rel="noreferrer"><img src="" alt=""></img></a>
+<a href="" target="_blank" rel="noreferrer"><img src="" alt=""></img></a>
 <a href="" target="_blank" rel="noreferrer"><img src="" alt=""></img></a>
 <a href="" target="_blank" rel="noreferrer"><img src="" alt=""></img></a>
 <a href="" target="_blank" rel="noreferrer"><img src="" alt=""></img></a>
