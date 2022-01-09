@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yu Chen Zhao</h1>
 <h3 align="center">A Ryerson Computer Science Co-op Student</h3>
-<img align="right" src="https://www.gstatic.com/android/keyboard/emojikitchen/20210831/u1f426/u1f426_u1f525.png" style="width:250px;height:250px;"></img>
+<img align="right" src="https://www.gstatic.com/android/keyboard/emojikitchen/20210831/u1f426/u1f426_u1f525.png" style="width:220px;height:220px;"></img>
 
 
 - 🔭 I’m currently working on a **personal website to showcase my best projects**
