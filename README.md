@@ -11,7 +11,7 @@
 
 ### Languages, Frameworks, and Tools that I Have Used
 <!-- <a href="" target="_blank" rel="noreferrer"><img src="" alt=""></img></a> -->
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"></img></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"></img></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></img></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></img></a>
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></img></a>
